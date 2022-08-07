@@ -1,4 +1,7 @@
 # ShopList
+
+I made this project using EJS, Java script, Node js and MongoDB.
+
 We can add, remove and edit things in a list and also we can also find items by category form URL.
 Main Page:- 
 ![0](https://user-images.githubusercontent.com/104568327/183294620-07c1aab5-ad26-444d-8a7d-8b689a3f5291.jpg)
